@@ -114,7 +114,7 @@ extension CalculatorView {
                     )
                     .overlay(
                         buttonInfo.sfSymbol.map { Image(systemName: $0)
-                            .font(.system(size: dynamicFontSize, weight: .medium))
+                            .font(.system(size: 32, weight: .medium))
                             .foregroundColor(Theme.textColor(for: buttonInfo.type))}
                     )
                     .frame(width: currentButtonWidth,
