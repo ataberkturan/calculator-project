@@ -1,4 +1,4 @@
-![Calculator Project Banner](banner.png)
+![Calculator Project Banner](readme-assets/banner.png)
 
 # Calculator Project
 
@@ -55,37 +55,37 @@ Below are some GIFs demonstrating the app's functionality:
   <tr>
     <td align="center">
       <strong>Percentage Operation</strong><br>
-      <img src="Tutorial%20GIFs/yüzde.gif" alt="Percentage Operation" style="max-width: 400px; height: auto;">
+      <img src="readme-assets/Tutorial%20GIFs/yüzde.gif" alt="Percentage Operation" style="max-width: 400px; height: auto;">
     </td>
     <td align="center">
       <strong>Addition Operation</strong><br>
-      <img src="Tutorial%20GIFs/toplama.gif" alt="Addition Operation" style="max-width: 400px; height: auto;">
+      <img src="readme-assets/Tutorial%20GIFs/toplama.gif" alt="Addition Operation" style="max-width: 400px; height: auto;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Number Deletion (Clear)</strong><br>
-      <img src="Tutorial%20GIFs/sayı-silme.gif" alt="Number Deletion" style="max-width: 400px; height: auto;">
+      <img src="readme-assets/Tutorial%20GIFs/sayı-silme.gif" alt="Number Deletion" style="max-width: 400px; height: auto;">
     </td>
     <td align="center">
       <strong>History View Tutorial</strong><br>
-      <img src="Tutorial%20GIFs/history-view-tutorial.gif" alt="History View Tutorial" style="max-width: 400px; height: auto;">
+      <img src="readme-assets/Tutorial%20GIFs/history-view-tutorial.gif" alt="History View Tutorial" style="max-width: 400px; height: auto;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Subtraction Operation</strong><br>
-      <img src="Tutorial%20GIFs/çıkarma.gif" alt="Subtraction Operation" style="max-width: 400px; height: auto;">
+      <img src="readme-assets/Tutorial%20GIFs/çıkarma.gif" alt="Subtraction Operation" style="max-width: 400px; height: auto;">
     </td>
     <td align="center">
       <strong>Multiplication Operation</strong><br>
-      <img src="Tutorial%20GIFs/çarpma.gif" alt="Multiplication Operation" style="max-width: 400px; height: auto;">
+      <img src="readme-assets/Tutorial%20GIFs/çarpma.gif" alt="Multiplication Operation" style="max-width: 400px; height: auto;">
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <strong>Plus/Minus Toggle</strong><br>
-      <img src="Tutorial%20GIFs/artı%3Aeksi%20alma.gif" alt="Plus/Minus Toggle" style="max-width: 400px; height: auto;">
+      <img src="readme-assets/Tutorial%20GIFs/artı%3Aeksi%20alma.gif" alt="Plus/Minus Toggle" style="max-width: 400px; height: auto;">
     </td>
   </tr>
 </table>
@@ -96,11 +96,11 @@ Below are some GIFs demonstrating the app's functionality:
   <tr>
     <td align="center">
       <strong>Light Mode</strong><br>
-      <img src="light-mode.jpeg" alt="Calculator Light Mode" width="300">
+      <img src="readme-assets/light-mode.jpeg" alt="Calculator Light Mode" width="300">
     </td>
     <td align="center">
       <strong>Dark Mode</strong><br>
-      <img src="dark-mode.jpeg" alt="Calculator Dark Mode" width="300">
+      <img src="readme-assets/dark-mode.jpeg" alt="Calculator Dark Mode" width="300">
     </td>
   </tr>
 </table>
